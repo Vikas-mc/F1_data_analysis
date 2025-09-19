@@ -7,3 +7,7 @@ The study of driver–circuit affinity, highlighting which drivers consistently 
 History 🌍
 Formula 1, held globally since 1950, is one of the most prestigious motorsport competitions.
 Over the decades, legends like Michael Schumacher and Lewis Hamilton have dominated the championship. The all-time race win record is shared by Hamilton and Schumacher. Iconic circuits such as Monza, Monaco, and Silverstone have shaped the sport’s legacy, while teams like Ferrari, McLaren, and Mercedes stand as historic powerhouses
+
+Plotted Bar graphs to show different races, tracks, countries, player names and counts
+
+finally we tabulated total wins and player names and their favorite circuit.
